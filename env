@@ -1,0 +1,2 @@
+HOME=~/local/dev/courses
+export PATH=${HOME}/from-Nand-to-Tetris/nand2tetris/tools:$PATH
